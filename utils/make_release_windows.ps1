@@ -24,8 +24,8 @@ $runtime_suffixes = @{
 }
 
 $arch_generators = @{
-	"x86"="Visual Studio 14 2015";
-	"x64"="Visual Studio 14 2015 Win64"
+	"x86"="Visual Studio 15 2017";
+	"x64"="Visual Studio 15 2017 Win64"
 }
 
 $extra_cmake_flags = @{
